@@ -1,0 +1,52 @@
+次回作原案(シナリオ)
+
+タロット 大アルカナの組織　TarotR(L)eader
+1.              愚者（The Fool）：会社員(かき回し役１)
+
+2.              魔術師（The Magician）：科学者
+
+3.              女教皇（The High Priestess）：学者
+
+4.              女帝（The Empress）：保育士
+
+5.              皇帝（The Emperor）：皇帝
+
+6.              教皇（The Hierophant）：哲学者
+
+7.              恋人（The Lovers）：双子のモデル(かき回し役２)
+
+8.              戦車（The Chariot）：軍上層部
+
+9.              力（Strength）：動物の調教師(飼育員？)
+
+10.            隠者（The Hermit）引き篭もりもしくは陰キャの学生
+
+11.            運命の輪（Wheel of Fortune）：ギャンブラー
+
+12.            正義（Justice）警察もしくは検事(弁護士)
+
+13.            吊された男（The Hanged Man）：死刑囚
+
+14.            死神（Death）：医者
+
+15.            節制（Temperance）：カルト教団の長
+
+16.            悪魔（The Devil）：詐欺師
+
+17.            塔（The Tower）：建築家もしくは登山家
+
+18.            星（The Star）：天文学者
+
+19.            月（The Moon）：宇宙飛行士
+
+20.            太陽（The Sun）：宇宙飛行士
+
+21.            審判（Judgment）：裁判官
+
+22.            世界（The World）：浮浪者、旅人
+
+23.     空（The Blank） -> 主人公(もThe Blank)に依頼タロットを渡す※終盤のどんでん返し
+
+上記のコードネームを持つ世界各国を裏から操る“議員(仮)”と呼ばれる22人からの依頼を誰が依頼したか描かれているタロットカード(正位置 攻撃 逆位置 防衛)を
+TarotR(L)eader(タロットリーダー)のメンバーの窓口の人間から受け取って主人公(プレイヤー)は任務に励む。
+
